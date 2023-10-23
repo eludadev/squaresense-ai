@@ -1,0 +1,39 @@
+{
+  "Index": {
+    "title": "SquareSense",
+    "quote": {
+      "message": "SquareSense is your trusty sidekick for all things Square data, powered by Google Vertex AI. Dive into colorful charts, have a chat with AI, and let us forecast the fun for your business journey with SquareSense.",
+      "author": "Younes Laaroussi"
+    }
+  },
+  "Catalog": {
+    "name": "Name",
+    "price": "Price",
+    "description": "Description",
+    "caption": "A list of your catalog items."
+  },
+  "AIEditor": {
+    "placeholder": "Ask the AI anything...",
+    "hint": "You can ask anything, like \"add more emoji\"",
+    "suggestions": {
+      "title": "Suggestions",
+      "items": {
+        "fix-grammar": "Fix grammar",
+        "improve-writing": "Improve writing",
+        "punchier": "Make it punchier",
+        "condense": "Condense",
+        "mix": "Mix it up",
+        "improve": "Improve structure & spacing"
+      }
+    }
+  },
+  "Auth": {
+    "title": "Get Started",
+    "subtitle": "Continue by linking your Square account",
+    "action": "Authenticate",
+    "pending": "Authenticating...",
+    "logout": "Logout",
+    "done": "Done! You can now close this window.",
+    "disclaimer": "By clicking continue, you agree to our [Terms of Service](/terms) and [Privacy Policy](/privacy)."
+  }
+}
